@@ -1,0 +1,30 @@
+git init
+
+
+git add .
+
+git add readme.txt
+
+
+git status
+
+
+git commit -m 
+
+git push 
+git pull
+
+
+git rm --cached readme.txt
+
+git config --global user.name"name"
+
+git branch <branch name> - to make new branch 
+
+git checkout <branch name>
+
+git merge <branch name>
+
+git remote add origin <url>
+
+git push -u origin <branch>
